@@ -1,0 +1,6 @@
+
+yarn add axios babel-polyfill bootstrap@3.3.6 jwt-decode moment toastr
+
+yarn add apollo-boost react-apollo graphql-tag graphql react-router
+
+yarn add font-awesome@^4.7.0

@@ -1,0 +1,25 @@
+query Department {
+  departments {
+    id
+    name
+    shortCode
+  }
+}
+
+query DepartmentById($Id: Int!) {
+  department(Id: $Id) {
+    name
+  }
+}
+
+mutation AddDepartment($Department: DepartmentInputType!) {
+  addDepartment(Department: $Department) {
+    name
+  }
+}
+
+mutation DeleteDepartment($Id: int!) {
+  deleteDepartment(Id: $Id) {
+    name
+  }
+}
