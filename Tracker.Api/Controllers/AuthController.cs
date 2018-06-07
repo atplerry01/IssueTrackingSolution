@@ -18,9 +18,7 @@ namespace Tracker.Api.Controllers
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly ApplicationDbContext _db;
 
-        public AuthController(SignInManager<ApplicationUser> signInManager,
-                UserManager<ApplicationUser> userManager,
-                ApplicationDbContext db)
+        public AuthController(SignInManager<ApplicationUser> signInManager, UserManager<ApplicationUser> userManager, ApplicationDbContext db)
         {
             _signInManager = signInManager;
             _userManager = userManager;

@@ -12886,11 +12886,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Development\\SecureID\\IssueTrackingSolution\\Tracker.Api\\Tracker.Api.csproj",
+      "projectUniqueName": "c:\\Development\\SecureID\\VSCode\\IssueTrackingSolution\\Tracker.Api\\Tracker.Api.csproj",
       "projectName": "Tracker.Api",
-      "projectPath": "c:\\Development\\SecureID\\IssueTrackingSolution\\Tracker.Api\\Tracker.Api.csproj",
+      "projectPath": "c:\\Development\\SecureID\\VSCode\\IssueTrackingSolution\\Tracker.Api\\Tracker.Api.csproj",
       "packagesPath": "C:\\Users\\lakinsanya\\.nuget\\packages\\",
-      "outputPath": "c:\\Development\\SecureID\\IssueTrackingSolution\\Tracker.Api\\obj\\",
+      "outputPath": "c:\\Development\\SecureID\\VSCode\\IssueTrackingSolution\\Tracker.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
