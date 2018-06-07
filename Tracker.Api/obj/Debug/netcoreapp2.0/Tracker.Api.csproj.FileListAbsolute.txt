@@ -9,3 +9,14 @@ C:\Dev\VSCodeDevelopment\IssueTrackerSolution\Tracker.Api\obj\Debug\netcoreapp2.
 C:\Dev\VSCodeDevelopment\IssueTrackerSolution\Tracker.Api\obj\Debug\netcoreapp2.0\Tracker.Api.AssemblyInfo.cs
 C:\Dev\VSCodeDevelopment\IssueTrackerSolution\Tracker.Api\obj\Debug\netcoreapp2.0\Tracker.Api.dll
 C:\Dev\VSCodeDevelopment\IssueTrackerSolution\Tracker.Api\obj\Debug\netcoreapp2.0\Tracker.Api.pdb
+C:\Development\SecureID\IssueTrackingSolution\Tracker.Api\bin\Debug\netcoreapp2.0\Tracker.Api.deps.json
+C:\Development\SecureID\IssueTrackingSolution\Tracker.Api\bin\Debug\netcoreapp2.0\Tracker.Api.runtimeconfig.json
+C:\Development\SecureID\IssueTrackingSolution\Tracker.Api\bin\Debug\netcoreapp2.0\Tracker.Api.runtimeconfig.dev.json
+C:\Development\SecureID\IssueTrackingSolution\Tracker.Api\bin\Debug\netcoreapp2.0\Tracker.Api.dll
+C:\Development\SecureID\IssueTrackingSolution\Tracker.Api\bin\Debug\netcoreapp2.0\Tracker.Api.pdb
+C:\Development\SecureID\IssueTrackingSolution\Tracker.Api\obj\Debug\netcoreapp2.0\Tracker.Api.csprojAssemblyReference.cache
+C:\Development\SecureID\IssueTrackingSolution\Tracker.Api\obj\Debug\netcoreapp2.0\Tracker.Api.csproj.CoreCompileInputs.cache
+C:\Development\SecureID\IssueTrackingSolution\Tracker.Api\obj\Debug\netcoreapp2.0\Tracker.Api.AssemblyInfoInputs.cache
+C:\Development\SecureID\IssueTrackingSolution\Tracker.Api\obj\Debug\netcoreapp2.0\Tracker.Api.AssemblyInfo.cs
+C:\Development\SecureID\IssueTrackingSolution\Tracker.Api\obj\Debug\netcoreapp2.0\Tracker.Api.dll
+C:\Development\SecureID\IssueTrackingSolution\Tracker.Api\obj\Debug\netcoreapp2.0\Tracker.Api.pdb

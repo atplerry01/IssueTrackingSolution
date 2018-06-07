@@ -12880,28 +12880,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\WHYCESPACE\\.nuget\\packages\\": {},
+    "C:\\Users\\lakinsanya\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\VSCodeDevelopment\\IssueTrackerSolution\\Tracker.Api\\Tracker.Api.csproj",
+      "projectUniqueName": "c:\\Development\\SecureID\\IssueTrackingSolution\\Tracker.Api\\Tracker.Api.csproj",
       "projectName": "Tracker.Api",
-      "projectPath": "C:\\Dev\\VSCodeDevelopment\\IssueTrackerSolution\\Tracker.Api\\Tracker.Api.csproj",
-      "packagesPath": "C:\\Users\\WHYCESPACE\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\VSCodeDevelopment\\IssueTrackerSolution\\Tracker.Api\\obj\\",
+      "projectPath": "c:\\Development\\SecureID\\IssueTrackingSolution\\Tracker.Api\\Tracker.Api.csproj",
+      "packagesPath": "C:\\Users\\lakinsanya\\.nuget\\packages\\",
+      "outputPath": "c:\\Development\\SecureID\\IssueTrackingSolution\\Tracker.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\WHYCESPACE\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lakinsanya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
